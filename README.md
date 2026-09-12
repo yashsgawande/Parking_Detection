@@ -1,6 +1,6 @@
 A computer vision based parking slot detection system built using Background Subtraction method.
 
-The system uses a video of the parking slots where we draw the polygon over every parking slot, I chose the polygon over rectangle for flexibility of the parking slot.
+The system uses a live footage of the parking slots where we draw the polygon over every parking slot, I chose the polygon over rectangle for flexibility of the parking slot.
 
 All of the coordinates of the parking slots, stored in a JSON file to detect it . It process each parking region individually and provides the current parking availability.
 
