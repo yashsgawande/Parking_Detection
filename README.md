@@ -28,3 +28,10 @@ Limitations
 • Camera movement can affect slot alignment
 • Obstruction can affect detection
 
+takeimage.py :- Take image is used to take the image from the live camera for further process. (Just import the video as of the name "parkin.mp4" other wise change the name and state according to you.
+
+polygon.py :- polygon file is used to draw the polygon over the parking slots to further detections.
+
+Carpark.json :- Carpark is the json file where the all parking slots coordinates get stored when you create the first parking polygon it get created automatically.
+
+detection.py :- Detection was the final file where the all detection process was done.
